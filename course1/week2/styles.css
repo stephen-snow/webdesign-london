@@ -13,7 +13,20 @@ a:hover{
 	background:white;
 }
 
+.greenlink:hover{
+	color:green;
+	background:gray;
+}
+
 h1{
 	font-family:serif;
 	font-size:24pt;
+}
+
+.indent{
+	margin-left:10px;
+}
+
+.gap_below{
+	margin-bottom:25px;
 }
