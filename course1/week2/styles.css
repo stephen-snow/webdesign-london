@@ -1,13 +1,19 @@
 body{
-	background: black;
-	color: white;
+	background:black;
+	color:white;
 }
 
 a{
-	color: gray;
+	color:gray;
+	text-decoration:none;
+}
+
+a:hover{
+	color:black;
+	background:white;
 }
 
 h1{
-	font-family: sans-serif;
-	font-size: 50pt;
+	font-family:serif;
+	font-size:24pt;
 }
