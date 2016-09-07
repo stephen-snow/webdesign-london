@@ -6,3 +6,8 @@ body{
 a{
 	color: gray;
 }
+
+h1{
+	font-family: sans-serif;
+	font-size: 50pt;
+}
