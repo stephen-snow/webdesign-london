@@ -4,9 +4,14 @@
         <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
     </head>
     <body>
-        <h1 id="title"
-            onclick="$('#title').html('Goodbye');">
-                Hello
-        </h1>
+        <h1 id="title" onclick="sayHello();"> Hello </h1>
     </body>
+    
+    <script type="text/javascript">
+        function sayHello(){
+        $("#title").html("Goodbye");
+    };
+    </script>
+    
+    
 </html>
