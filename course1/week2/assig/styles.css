@@ -1,0 +1,12 @@
+/* Modify h1 tag */
+h1{
+    /* Modify the text color */
+    color: crimson;
+    
+    /* Underline the text */
+    text-decoration: underline;
+    
+    /* Change the heading font */
+    font-family: monospace;
+}
+

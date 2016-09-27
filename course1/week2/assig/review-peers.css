@@ -1,0 +1,5 @@
+.body /* class to change the text writing */ { 
+    font-family: "Courier New", "Courier", monospace; /*font-family */ 
+    font-size:16px;/*size of the font */
+    color:red; /*colour of the text */
+}
